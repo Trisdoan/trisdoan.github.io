@@ -16,7 +16,7 @@ In this project, I implemented these techniques to solve this problem
 ### [Project 3: Graduation Examination Analytics](https://github.com/Trisdoan/Graduation_Examination_Analytics)
 
 
-<img src="images/1.jpg" width="300"/> <img src="images/2.jpg" width="300"/> <img src="images/3.jpg" width="300"/>
+<img src="images/1.jpg" width="200"/> <img src="images/2.jpg" width="200"/> <img src="images/3.jpg" width="200"/>
 
 
 
