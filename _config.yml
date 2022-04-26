@@ -2,10 +2,8 @@
 title: Tris Doan
 logo: "images/274001952_1616352562042661_2293468603069187119_n.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hi! Welcome to my project house. Hope you enjoy and have a nice day!
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/trisdoan">View My LinkedIn Profile</a> 
 
 theme: jekyll-theme-minimal
