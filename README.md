@@ -23,5 +23,20 @@ In this project, I implemented these techniques to solve this problem
 
 
 
-### Project 3: Work-life balance analytics
+### Project 5: Work-life balance analytics
+
+
+
+### Project 6: Video Player
+
+
+
+
+### Project 7: Ecommerce Marketing Analytics
+
+
+
+
+### Project 8: Airbnb Analytics
+
 
