@@ -1,5 +1,3 @@
-
-
 # [Project 1: Marketing Analytics](https://github.com/Trisdoan/SQL_Serious_SQL/tree/main/Marketing_Analytics)
 
 In order to run a email marketing campaign, a markting team at DVD Rental Co asked to help them to get necessary data points. I use SQL to solve this problem.
