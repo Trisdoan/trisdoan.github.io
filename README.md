@@ -15,6 +15,15 @@ In this project, I implemented these techniques to solve this problem
 
 ### [Project 3: Graduation Examination Analytics](https://github.com/Trisdoan/Graduation_Examination_Analytics)
 
+From dataset of Vietnamese students taking high school graduation exam in 2020, these are what I did:
+1. Used FileIO to read data.txt
+2. Used basic techniques to extract clean data
+3. Visualized the following insights:
+    * Top first names of candidates
+    * Top last names of candidates
+    * Avarage scores of 11 groups of ages
+    * Average scores of candidates who did not sit for some subjects
+    * Numbers of candidates who did not sit for some subjects
 
 <img src="images/1.jpg" width="200"/> <img src="images/2.jpg" width="200"/> <img src="images/3.jpg" width="200"/>
 
