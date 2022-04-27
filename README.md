@@ -1,19 +1,22 @@
-# [Project 1: Marketing Analytics](https://github.com/Trisdoan/SQL_Serious_SQL/tree/main/Marketing_Analytics)
+# [Project 1: Using SQL for marketing analytics? Why not](https://github.com/Trisdoan/SQL_Serious_SQL/tree/main/Marketing_Analytics)
 
-In order to run a email marketing campaign, a markting team at DVD Rental Co asked to help them to get necessary data points. I use SQL to solve this problem.
-In this project, I implemented these techniques to create a final report **Join, Aggregation functions, CTEs** and **Windown Functions**.
+**Dataset**: DVD Rental Co customer records.
 
-# [Project 2: Danny Dinner](https://github.com/Trisdoan/SQL_Serious_SQL/tree/main/Danny_Dinner_Analytics)
+* In order to run a email marketing campaign, a markting team at DVD Rental Co asked to help them to get necessary data points. 
+* In this project, I implemented these techniques to create a final report **Join, Aggregation functions, CTEs** and **Windown Functions**.
 
-Helped the owner of the restauntant to generate some basic datasets so his team can easily inspect the data without needing to use SQL.
-In this project, I implemented these techniques to solve this problem
+# [Project 2: Another SQL project :) ](https://github.com/Trisdoan/SQL_Serious_SQL/tree/main/Danny_Dinner_Analytics)
+**Dataset**: Restaurant customer records.
+* Helped the owner of the restauntant to generate a final report so his team can easily inspect the data without needing to use SQL.
+* In this project, I implemented these techniques to solve this problem
 
 
-# [Project 3: Graduation Examination Analytics](https://github.com/Trisdoan/Graduation_Examination_Analytics)
+# [Project 3: Using Python to analyze graduation examination. Nice!!!](https://github.com/Trisdoan/Graduation_Examination_Analytics)
+**Dataset**: Vietnamese students taking high school graduation exam in 2020.
 
-From dataset of Vietnamese students taking high school graduation exam in 2020, these are what I did:
+These are what I did:
 1. Used FileIO to read data.txt
-2. Used basic techniques to extract clean data
+2. Used techniques to extract clean data
 3. Visualized the following insights:
     * Top first names of candidates
     * Top last names of candidates
