@@ -1,4 +1,4 @@
-# [Project 1: Markerting Analytics by SQL](https://trisdoan.github.io/sample_page)
+# [Project 1: Markerting Analytics by SQL](https://github.com/Trisdoan/SQL_Serious_SQL/blob/25a9302a8a996cb200bed048fcd0f09baa290528/Marketing_Analytics/README.md)
 
 **Dataset**: DVD Rental Co customer records.
 
