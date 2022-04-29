@@ -30,7 +30,7 @@ __These are what I did:__
 
 
 
-# [Project 5: Using Python to see which factors affecting our life](https://github.com/Trisdoan/How-to-have-a-balanced-work-life)
+# [Project 4: Using Python to see which factors affecting our life](https://github.com/Trisdoan/How-to-have-a-balanced-work-life)
 
 **Dataset**: Restaurant customer records.
 * Helped the owner of the restauntant to generate a final report so his team can easily inspect the data without needing to use SQL.
@@ -38,7 +38,7 @@ __These are what I did:__
 
 
 
-# [Project 7: Ecommerce Marketing Analytics by SQL](https://github.com/Trisdoan/Ecommerce_Marketing_Analytics/tree/main)
+# [Project 5: Ecommerce Marketing Analytics by SQL](https://github.com/Trisdoan/Ecommerce_Marketing_Analytics/tree/main)
 
 **Dataset**: Restaurant customer records.
 
@@ -47,7 +47,7 @@ I used **SQL** and **Power BI**
 * I use PostgreSQL to tackle some headache questions from the owner
 
 
-# [Project 8: HR Analytics](https://github.com/Trisdoan/HR_Analytics)
+# [Project 6: HR Analytics](https://github.com/Trisdoan/HR_Analytics)
 
 **Dataset**: Restaurant customer records.
 
