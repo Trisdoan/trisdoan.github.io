@@ -36,7 +36,11 @@ __These are what I did:__
 
 
 
-# Project 5: Work-life balance analytics
+# [Project 5: How to have a balance work life]()
+
+**Dataset**: Restaurant customer records.
+* Helped the owner of the restauntant to generate a final report so his team can easily inspect the data without needing to use SQL.
+* I use PostgreSQL to tackle some headache questions from the owner
 
 
 
