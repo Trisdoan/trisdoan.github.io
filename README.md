@@ -30,13 +30,7 @@ __These are what I did:__
 
 
 
-
-# Project 4: Ecommerce Marketing Analytics
-
-
-
-
-# [Project 5: How to have a balance work life]()
+# [Project 5: Using Python to see which factors affecting our life]()
 
 **Dataset**: Restaurant customer records.
 * Helped the owner of the restauntant to generate a final report so his team can easily inspect the data without needing to use SQL.
@@ -44,16 +38,19 @@ __These are what I did:__
 
 
 
-# Project 6: Video Player
+### [Project 7: Ecommerce Marketing Analytics by SQL]
+
+**Dataset**: Restaurant customer records.
+
+I used **SQL** and **Power BI**
+* Helped the owner of the restauntant to generate a final report so his team can easily inspect the data without needing to use SQL.
+* I use PostgreSQL to tackle some headache questions from the owner
 
 
+### [Project 8: HR Analytics]
 
+**Dataset**: Restaurant customer records.
 
-### Project 7: Ecommerce Marketing Analytics
-
-
-
-
-### Project 8: Airbnb Analytics
-
-
+I used **SQL** and **Python**
+* Helped the owner of the restauntant to generate a final report so his team can easily inspect the data without needing to use SQL.
+* I use PostgreSQL to tackle some headache questions from the owner
