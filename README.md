@@ -9,7 +9,7 @@
 
 **Dataset**: Restaurant customer records.
 * Helped the owner of the restauntant to generate a final report so his team can easily inspect the data without needing to use SQL.
-* I use PostgreSQL to tackle some headache questions from the owner
+* I use **PostgreSQL** to tackle some headache questions from the owner
 
 
 # [Project 3: Graduation Examination Analytics by Python](https://github.com/Trisdoan/Graduation_Examination_Analytics)
