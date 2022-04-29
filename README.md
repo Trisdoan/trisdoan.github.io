@@ -3,7 +3,7 @@
 **Dataset**: DVD Rental Co customer records.
 
 * In order to run a email marketing campaign, a markting team at DVD Rental Co asked to help them to get necessary data points. 
-* I used Postgresql to create a final report.
+* I used **Postgresql** to create a final report.
 
 # [Project 2: Customer Behavior Analytics by SQL](https://github.com/Trisdoan/SQL_Serious_SQL/tree/main/Danny_Dinner_Analytics)
 
