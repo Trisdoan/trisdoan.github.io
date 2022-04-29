@@ -38,7 +38,7 @@ __These are what I did:__
 
 
 
-### [Project 7: Ecommerce Marketing Analytics by SQL](https://github.com/Trisdoan/Ecommerce_Marketing_Analytics/tree/main)
+# [Project 7: Ecommerce Marketing Analytics by SQL](https://github.com/Trisdoan/Ecommerce_Marketing_Analytics/tree/main)
 
 **Dataset**: Restaurant customer records.
 
@@ -47,7 +47,7 @@ I used **SQL** and **Power BI**
 * I use PostgreSQL to tackle some headache questions from the owner
 
 
-### [Project 8: HR Analytics](https://github.com/Trisdoan/HR_Analytics)
+# [Project 8: HR Analytics](https://github.com/Trisdoan/HR_Analytics)
 
 **Dataset**: Restaurant customer records.
 
