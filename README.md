@@ -26,7 +26,7 @@ __These are what I did:__
     * Average scores of candidates who did not sit for some subjects
     * Numbers of candidates who did not sit for some subjects
 
-<img src="images/collage.jpg" width="300"/> 
+<img src="images/collage.jpg" width="350"/> 
 
 
 
