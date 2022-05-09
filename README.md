@@ -1,3 +1,5 @@
+# Personal Projects
+
 # [Project 1: Markerting Analytics by SQL](https://github.com/Trisdoan/SQL_Serious_SQL/blob/main/Marketing_Analytics/README.md)
 
 **Dataset**: DVD Rental Co customer records.
