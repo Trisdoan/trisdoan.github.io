@@ -12,7 +12,7 @@
 * I use **PostgreSQL** to tackle some headache questions from the owner
 
 
-# [Project 3: Using Python to see which factors affecting our life](https://github.com/Trisdoan/How-to-have-a-balanced-work-life)
+# [Project 3: Using Python to see which factors affecting our life](https://github.com/Trisdoan/How-to-have-a-balanced-work-life/blob/e7c8a25d4cf4da99492a02b896dc94b62b94558d/README.md)
 
 **Dataset**: Restaurant customer records.
 * Helped the owner of the restauntant to generate a final report so his team can easily inspect the data without needing to use SQL.
