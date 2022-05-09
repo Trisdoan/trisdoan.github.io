@@ -12,11 +12,14 @@
 * I use **PostgreSQL** to tackle some headache questions from the owner
 
 
-# [Project 3: Using Python to see which factors affecting our life](https://github.com/Trisdoan/How-to-have-a-balanced-work-life/blob/e7c8a25d4cf4da99492a02b896dc94b62b94558d/README.md)
+# [Project 3: Using Python to see which factors affecting our life](https://github.com/Trisdoan/How-to-have-a-balanced-work-life/blob/main/README.md)
 
-**Dataset**: Restaurant customer records.
-* Helped the owner of the restauntant to generate a final report so his team can easily inspect the data without needing to use SQL.
-* I use PostgreSQL to tackle some headache questions from the owner
+**Dataset**: Lifestyle and wellbeing dataset.
+
+* I want to know which factors affecting our work life and then hopefully build a mode to predict our life quality.
+
+<img src="images/case3.jpg" width="400"/>
+
 
 
 
