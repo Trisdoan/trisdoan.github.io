@@ -1,20 +1,20 @@
 # Personal Projects
 
-# [Project 1: Markerting Analytics by SQL](https://github.com/Trisdoan/SQL_Serious_SQL/blob/main/Marketing_Analytics/README.md)
+# Project 1: Markerting Analytics by SQL
 
 **Dataset**: DVD Rental Co customer records.
 
 * In order to run a email marketing campaign, a markting team at DVD Rental Co asked to help them to get necessary data points. 
 * I used **Postgresql** to create a final report.
 
-# [Project 2: Customer Behavior Analytics by SQL](https://github.com/Trisdoan/SQL_Serious_SQL/blob/main/Danny_Dinner_Analytics/README.md)
+# Project 2: Customer Behavior Analytics by SQL
 
 **Dataset**: Restaurant customer records.
 * Helped the owner of the restauntant to generate a final report so his team can easily inspect the data without needing to use SQL.
 * I use **PostgreSQL** to tackle some headache questions from the owner
 
 
-# [Project 3: Using Python to see which factors affecting our life](https://github.com/Trisdoan/How-to-have-a-balanced-work-life/blob/main/README.md)
+# Project 3: Using Python to see which factors affecting our life
 
 **Dataset**: Lifestyle and wellbeing dataset.
 
@@ -25,16 +25,24 @@
 
 
 
-# [Project 4: Ecommerce Marketing Analytics by SQL](https://github.com/Trisdoan/Ecommerce_Marketing_Analytics/tree/main)
+# Project 4: Ecommerce Marketing Analytics by SQL
 
 **Dataset**: Restaurant customer records.
 
-I used **SQL** and **Power BI**
-* Helped the owner of the restauntant to generate a final report so his team can easily inspect the data without needing to use SQL.
-* I use PostgreSQL to tackle some headache questions from the owner
+Provide answers for ad-hoc request from manager.
+
+**1. Using trended perfomance data to show company's growth**
+
+**2. Explain details company's perfomance**
+
+**3. Quantify the revenue impact**
+
+**4. Analyze current performance and assess upcoming opportunities**
+
+**5. Explain growth by diving to channels and website optimizations**
 
 
-# [Project 5: HR Analytics](https://github.com/Trisdoan/HR_Analytics)
+# Project 5: HR Analytics
 
 **Dataset**: Restaurant customer records.
 
