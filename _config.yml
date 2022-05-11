@@ -1,6 +1,7 @@
-
 title: <p align="center"> Tris Doan </p>
+
 logo: "images/oooo.plus_149.png" # your photo (or logo) here
+
 description:
   <p align="center">
   <a href="https://www.linkedin.com/in/trisdoan/">LinkedIn</a> |
@@ -13,6 +14,5 @@ description:
   I am currently looking for a DA position
   <br><br>
   </p>  
-  
   
 theme: jekyll-theme-minimal
