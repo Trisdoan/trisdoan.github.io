@@ -1,20 +1,20 @@
 # Personal Projects
 
-# Project 1: Markerting Analytics by SQL
+## Project 1: Markerting Analytics by SQL
 
 **Dataset**: DVD Rental Co customer records.
 
 * In order to run a email marketing campaign, a markting team at DVD Rental Co asked to help them to get necessary data points. 
 * I used **Postgresql** to create a final report.
 
-# Project 2: Customer Behavior Analytics by SQL
+## Project 2: Customer Behavior Analytics by SQL
 
 **Dataset**: Restaurant customer records.
 * Helped the owner of the restauntant to generate a final report so his team can easily inspect the data without needing to use SQL.
 * I use **PostgreSQL** to tackle some headache questions from the owner
 
 
-# Project 3: Using Python to see which factors affecting our life
+## Project 3: Using Python to see which factors affecting our life
 
 **Dataset**: Lifestyle and wellbeing dataset.
 
@@ -25,7 +25,7 @@
 
 
 
-# Project 4: Ecommerce Marketing Analytics by SQL
+## Project 4: Ecommerce Marketing Analytics by SQL
 
 **Dataset**: Restaurant customer records.
 
@@ -42,7 +42,7 @@ Provide answers for ad-hoc request from manager.
 * Explain growth by diving to channels and website optimizations**
 
 
-# Project 5: HR Analytics
+## Project 5: HR Analytics
 
 **Dataset**: Restaurant customer records.
 
