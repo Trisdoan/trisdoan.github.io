@@ -31,15 +31,15 @@
 
 Provide answers for ad-hoc request from manager.
 
-**1. Using trended perfomance data to show company's growth**
+* Using trended perfomance data to show company's growth**
 
-**2. Explain details company's perfomance**
+* Explain details company's perfomance**
 
-**3. Quantify the revenue impact**
+* Quantify the revenue impact**
 
-**4. Analyze current performance and assess upcoming opportunities**
+* Analyze current performance and assess upcoming opportunities**
 
-**5. Explain growth by diving to channels and website optimizations**
+* Explain growth by diving to channels and website optimizations**
 
 
 # Project 5: HR Analytics
