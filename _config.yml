@@ -1,9 +1,18 @@
 
-title: Tris Doan
+title: <p align="center"> Tris Doan </p>
 logo: "images/oooo.plus_149.png" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hi!Welcome to my project house. Hope you enjoy and have a nice day!
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/trisdoan/">LinkedIn</a> |
+  <a href="https://github.com/Trisdoan">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I am pursing BSC degree in Computer Science at University of the People.
   <br><br>
-  <a href="https://www.linkedin.com/in/trisdoan/">View My LinkedIn Profile</a>
+  I am currently looking for a DA position
+  <br><br>
+  </p>  
+  
   
 theme: jekyll-theme-minimal
