@@ -2,12 +2,16 @@
 
 ## Project 1: Markerting Analytics by SQL
 
+ [![](https://img.shields.io/badge/Github-View%20on%20Github-blue)](https://github.com/Trisdoan/SQL_Serious_SQL/blob/main/Marketing_Analytics/README.md)
+
 **Dataset**: DVD Rental Co customer records.
 
 * In order to run a email marketing campaign, a markting team at DVD Rental Co asked to help them to get necessary data points. 
 * I used **Postgresql** to create a final report.
 
 ## Project 2: Customer Behavior Analytics by SQL
+ [![](https://img.shields.io/badge/Github-View%20on%20Github-blue)](https://github.com/Trisdoan/SQL_Serious_SQL/blob/main/Danny_Dinner_Analytics/README.md)
+
 
 **Dataset**: Restaurant customer records.
 * Helped the owner of the restauntant to generate a final report so his team can easily inspect the data without needing to use SQL.
@@ -15,6 +19,8 @@
 
 
 ## Project 3: Using Python to see which factors affecting our life
+ [![](https://img.shields.io/badge/Github-View%20on%20Github-blue)](https://github.com/Trisdoan/How-to-have-a-balanced-work-life/blob/main/README.md)
+
 
 **Dataset**: Lifestyle and wellbeing dataset.
 
@@ -26,6 +32,8 @@
 
 
 ## Project 4: Ecommerce Marketing Analytics by SQL
+ [![](https://img.shields.io/badge/Github-View%20on%20Github-blue)](https://github.com/Trisdoan/SQL_Serious_SQL/blob/main/Marketing_Analytics/README.md)
+
 
 **Dataset**: Restaurant customer records.
 
@@ -43,6 +51,8 @@ Provide answers for ad-hoc request from manager.
 
 
 ## Project 5: HR Analytics
+ [![](https://img.shields.io/badge/Github-View%20on%20Github-blue)](https://github.com/Trisdoan/SQL_Serious_SQL/blob/main/Marketing_Analytics/README.md)
+
 
 **Dataset**: Restaurant customer records.
 
