@@ -24,7 +24,8 @@
 
 **Dataset**: Lifestyle and wellbeing dataset.
 
-* I want to know which factors affecting our work life and then hopefully build a mode to predict our life quality.
+* I want to know which factors affecting our work life and find ways to improve quality of work life
+* Then build a mode to predict our life quality.
 
 <img src="images/case3.jpg" width="400"/>
 
