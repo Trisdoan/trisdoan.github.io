@@ -52,11 +52,10 @@ Provide answers for ad-hoc request from manager.
 
 
 ## Project 5: HR Analytics
- [![](https://img.shields.io/badge/Github-View%20on%20Github-blue)](https://github.com/Trisdoan/Ecommerce_Marketing_Analytics/blob/24b3dfaf3440b358b5cbadd9b078527d6414aa25/README.md)
+ [![](https://img.shields.io/badge/Github-View%20on%20Github-blue)](https://github.com/Trisdoan/SQL_Serious_SQL/blob/58cab5d3093933f14d89d7826a3348b2dc407c4a/People%20Analytics%20Case%20Study/README.md)
 
 
-**Dataset**: Restaurant customer records.
+**Dataset**: Employee database
 
-I used **SQL** and **Python**
-* Helped the owner of the restauntant to generate a final report so his team can easily inspect the data without needing to use SQL.
-* I use PostgreSQL to tackle some headache questions from the owner
+I used **PostgreSQL**
+* 
