@@ -52,7 +52,7 @@ Provide answers for ad-hoc request from manager.
 
 
 ## Project 5: HR Analytics
- [![](https://img.shields.io/badge/Github-View%20on%20Github-blue)](https://github.com/Trisdoan/SQL_Serious_SQL/blob/main/Marketing_Analytics/README.md)
+ [![](https://img.shields.io/badge/Github-View%20on%20Github-blue)](https://github.com/Trisdoan/SQL_Serious_SQL/blob/49522b539c6117a6b74c917fc1da26882f979a04/People%20Analytics%20Case%20Study/README.md)
 
 
 **Dataset**: Restaurant customer records.
