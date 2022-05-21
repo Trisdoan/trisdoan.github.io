@@ -7,9 +7,10 @@
 **Dataset**: DVD Rental Co customer records.
 
 **Description**: 
-* 
+* Generating data points for an upcoming email marketing campaign.
+* Reporting ad-hoc requests.
 
-**Tools**: Python(EDA, data cleaning, machine learning - linear regression)
+**Tools**: SQL(PostgreSQL).
 
 ## Project 2: Customer Behavior Analytics by SQL
  [![](https://img.shields.io/badge/Github-View%20on%20Github-blue)](https://github.com/Trisdoan/SQL_Serious_SQL/blob/main/Danny_Dinner_Analytics/README.md)
@@ -21,7 +22,7 @@
 * Providing answers for ad-hoc requests, which helps a restaurant owner make a decision.
 * Finally, summarizing insights extracted from datasets.
 
-**Tools**:Tools: SQL(PostgreSQL)
+**Tools**: SQL(PostgreSQL)
 
 
 ## Project 3: Using Python to see which factors affecting our life
@@ -39,26 +40,26 @@
 <img src="images/case3.jpg" width="400"/>
 
 
-
-
 ## Project 4: Ecommerce Marketing Analytics by SQL
  [![](https://img.shields.io/badge/Github-View%20on%20Github-blue)](https://github.com/Trisdoan/SQL_Serious_SQL/blob/main/Marketing_Analytics/README.md)
 
 
 **Dataset**: Restaurant customer records.
 
+**Description**: 
 Provide answers for ad-hoc request from manager.
 
-* Using trended perfomance data to show company's growth
+1. Using trended perfomance data to show company's growth
 
-* Explain details company's perfomance
+2. Explain details company's perfomance
 
-* Quantify the revenue impact
+3. Quantify the revenue impact
 
-* Analyze current performance and assess upcoming opportunities
+4. Analyze current performance and assess upcoming opportunities
 
-* Explain growth by diving to channels and website optimizations
+5. Explain growth by diving to channels and website optimizations
 
+**Tools**: SQL(MySQL), POWER BI
 
 ## Project 5: HR Analytics
  [![](https://img.shields.io/badge/Github-View%20on%20Github-blue)](https://github.com/Trisdoan/SQL_Serious_SQL/blob/92418f24d7eeb5b814cef9ef33cab86ebc9ef48a/People%20Analytics%20Case%20Study/README.md)
@@ -70,4 +71,5 @@ Provide answers for ad-hoc request from manager.
 * Handling datasets of the wrong format.
 * Constructing a final dataset to answer ad-hoc requests from the HR team.
 * Answering extra questions relating to churn employees, management analysis.
+
 **Tools**: SQL(PostgreSQL) 
