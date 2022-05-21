@@ -41,7 +41,7 @@
 
 
 ## Project 4: Ecommerce Marketing Analytics by SQL
- [![](https://img.shields.io/badge/Github-View%20on%20Github-blue)](https://github.com/Trisdoan/SQL_Serious_SQL/blob/main/Marketing_Analytics/README.md)
+ [![](https://img.shields.io/badge/Github-View%20on%20Github-blue)](https://github.com/Trisdoan/Ecommerce_Marketing_Analytics/blob/ae6b65363a698d9af77f4e3124221fa3f3e84431/README.md)
 
 
 **Dataset**: Restaurant customer records.
